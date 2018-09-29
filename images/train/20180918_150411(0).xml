@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Carta Blanca botella 1200ml</folder>
+	<filename>20180918_150411(0).jpg</filename>
+	<path>G:\My Drive\Semana i 2018\Im&#225;genes para etiquetar\Refrigerador\Chevroders\Carta Blanca botella 1200ml\20180918_150411(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1036</width>
+		<height>1382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>carta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>92</ymin>
+			<xmax>558</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+</annotation>

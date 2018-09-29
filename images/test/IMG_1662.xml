@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs_1602_1668</folder>
+	<filename>IMG_1662.JPG</filename>
+	<path>/home/emilio/Pictures/imgs_1602_1668/imgs_1602_1668/IMG_1662.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strongbowR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>384</ymin>
+			<xmax>1110</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

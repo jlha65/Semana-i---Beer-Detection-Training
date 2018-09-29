@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XX lager lata 355ml</folder>
+	<filename>IMG_2188.JPG</filename>
+	<path>C:/Users/manue/Desktop/Softteck/XX lata/XX lager lata 355ml/XX lager lata 355ml/IMG_2188.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xx</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>233</ymin>
+			<xmax>834</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

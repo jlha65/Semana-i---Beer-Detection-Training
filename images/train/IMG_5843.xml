@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Miller Lata 946 ml</folder>
+	<filename>IMG_5843.JPG</filename>
+	<path>C:\Users\josehumberto\Desktop\Semana I\Semana I\Miller Lata 946 ml\IMG_5843.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>979</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>miller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>137</ymin>
+			<xmax>819</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

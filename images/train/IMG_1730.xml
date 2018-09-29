@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tecate light lata 355ml</folder>
+	<filename>IMG_1730.JPG</filename>
+	<path>C:/Users/Eduardo/Desktop/tecate Lata/Tecate light lata 355ml/Tecate light lata 355ml/IMG_1730.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tecate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>358</ymin>
+			<xmax>1095</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

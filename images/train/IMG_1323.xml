@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IndioLata</folder>
+	<filename>IMG_1323.JPG</filename>
+	<path>C:\Users\xMarko\Desktop\IndioLata\IMG_1323.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>indio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>151</ymin>
+			<xmax>1041</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

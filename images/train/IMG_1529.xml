@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Labelpics</folder>
+	<filename>IMG_1529.JPG</filename>
+	<path>/home/danielgaytan/Desktop/Labelpics/IMG_1529.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strongbowR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>378</ymin>
+			<xmax>1118</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

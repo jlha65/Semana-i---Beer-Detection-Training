@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label_imgs</folder>
+	<filename>IMG_1567.JPG</filename>
+	<path>/home/emilio/Pictures/imgs_1536_1601/label_imgs/IMG_1567.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1209</width>
+		<height>907</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>strongbowR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>399</ymin>
+			<xmax>1171</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Heineken light x6 botella 355ml</folder>
+	<filename>20180918_145835.jpg</filename>
+	<path>G:\My Drive\Semana i 2018\Im&#225;genes para etiquetar\Refrigerador\Chevroders\Heineken light x6 botella 355ml\20180918_145835.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1036</width>
+		<height>1382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heineken6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>342</ymin>
+			<xmax>822</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+</annotation>
